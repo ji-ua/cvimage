@@ -1,4 +1,4 @@
-# imabeConvertoer
+# cvimage
 
 画像ファイルのフォーマットを変換する．
 
